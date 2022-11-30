@@ -4,10 +4,10 @@
 	- Consuming
 	- Contributing to
 	- Releasing
-Open source software![image](https://user-images.githubusercontent.com/77357989/204813814-32978a5d-8711-4f4d-814c-ef96f35d7553.png)
+Open source software
 
  
- ![image](https://user-images.githubusercontent.com/77357989/204813729-a3689dd7-5ffd-4ca4-b439-30aab0c85238.png)
+![image](https://user-images.githubusercontent.com/77357989/204813729-a3689dd7-5ffd-4ca4-b439-30aab0c85238.png)
 
  
 ## Define responsibilities of OSPO team
@@ -37,10 +37,10 @@ Open source software![image](https://user-images.githubusercontent.com/77357989/
     * Cregit
     * GrimoireLab
     * Cauldron.io
-        https://cauldron.io/project/7055?from_date=2021-11-30&to_date=2022-11-30&tab=overview
+        * https://cauldron.io/project/7055?from_date=2021-11-30&to_date=2022-11-30&tab=overview
 8. GQM strategy
     * Goal, Questions, Metrics
-        https://en.wikipedia.org/wiki/GQM
+        * https://en.wikipedia.org/wiki/GQM
 
 ## Who/how many ?
 
