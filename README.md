@@ -9,7 +9,7 @@ Open source software
 
 ![Inboud/Outboud OSPO](https://user-images.githubusercontent.com/77357989/204816010-8dbaede4-3f9b-40d0-8942-b99d228fcace.png)
 
- 
+
 ## Define responsibilities of OSPO team
   
 - Keep everything healthy and sustainable
