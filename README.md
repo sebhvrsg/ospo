@@ -70,5 +70,4 @@ Open source software
 5. Giving back to the community
 6. Avoid the "Not Invented Here" syndrome
     * Tendency to reject an idea just because it originates from another culture; form of tribalism
-	
-![image](https://user-images.githubusercontent.com/77357989/204812613-a4a760b3-1c6d-4fbb-9c46-bca51f562944.png)
+
