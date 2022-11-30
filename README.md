@@ -17,7 +17,7 @@ Open source software
 - Footprint and leadership (does the project go into the expected direction?)
 - Help talented ppl stay engaged in the initiative
  
-## Manage an OSPO
+## How to Manage an OSPO
 
 - TODO group (https://todogroup.org/)
 - CHAOSS (https://chaoss.community/)
